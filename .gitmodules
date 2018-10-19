@@ -1,0 +1,3 @@
+[submodule "app/predis"]
+	path = app/predis
+	url = https://github.com/phpredis/phpredis
